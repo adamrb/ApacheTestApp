@@ -1,4 +1,4 @@
-OpsworksChef
+Apache Test Application
 ============
 
-Chef for Opsworks
+This application is just a simple static test page.
